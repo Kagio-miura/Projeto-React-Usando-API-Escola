@@ -1,2 +1,5 @@
-# Projeto-React-Usando-API-Escola
-Usando API escola em Site web
+-> Estado inicial: {
+    usuario_logado: false
+}
+
+-> ação -> reducer -> newState = state -> newState
